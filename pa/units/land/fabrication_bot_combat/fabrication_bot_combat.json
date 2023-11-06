@@ -139,6 +139,7 @@
     "size": 1
   },
   "unit_types": [
+  	"UNITTYPE_Fabber",
     "UNITTYPE_Custom58",
     "UNITTYPE_Construction",
     "UNITTYPE_Bot",
